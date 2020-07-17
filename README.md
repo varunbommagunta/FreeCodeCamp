@@ -6,3 +6,5 @@ Create a function that uses Numpy to output the mean, variance, and standard dev
 #Use this as a reference but dont copy from here
 #NoPlagiarism
 
+link for the project:https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
+
